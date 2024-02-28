@@ -1,0 +1,12 @@
+{
+    "events": [
+        {"id": "1", "type": "holiday"},
+        {"id": "2", "type": "charity"},
+        {"id": "3", "type": "networking"}
+    ],
+    "accounts": [
+        {"id": "1", "email": "aaa@mail.ru", "password": "aaa"},
+        {"id": "2", "email": "bbb@mail.ru", "password": "bbb"},
+        {"id": "3", "email": "ccc@mail.ru", "password": "ccc"}
+    ]
+}

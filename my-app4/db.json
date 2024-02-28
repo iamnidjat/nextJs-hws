@@ -1,0 +1,8 @@
+{
+  "todos": [
+    { "id": "1", "title": "title 1", "description": "desc 1", "category": "a" },
+    { "id": "2", "title": "title 2", "description": "desc 2", "category": "a" },
+    { "id": "3", "title": "title 3", "description": "desc 3", "category": "b" },
+    { "id": "4", "title": "title 4", "description": "desc 4", "category": "b" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "events": [
+        {"id": "1", "type": "holiday"},
+        {"id": "2", "type": "charity"},
+        {"id": "3", "type": "networking"}
+    ]
+}
